@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Никитыч\my_projects\Lab2_2sem\Lab2_2sem\Lab2_2sem\Source.cpp(64): warning C4715: 'DeleteList': not all control paths return a value
+  Lab2_2sem.vcxproj -> C:\Users\Никитыч\my_projects\Lab2_2sem\Lab2_2sem\x64\Debug\Lab2_2sem.exe
